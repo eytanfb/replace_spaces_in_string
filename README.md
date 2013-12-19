@@ -1,0 +1,1 @@
+This is an interview question I got from the Cracking the Coding Interview nook that I'm gonna attempt to solve both in ruby and Java.
